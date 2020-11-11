@@ -14,9 +14,9 @@ namespace GameXucXac
             Console.WriteLine("I'm Win!!!");
         }
 
-        public override int Roll(Dice dice)
+        public override int Roll(InterfaceDice _dice)
         {
-            return dice.rollDice();
+            return _dice.rollDice();
         }
 
 

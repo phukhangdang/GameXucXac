@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dangphukhang/Projects/GameXucXac/GameXucXac/GameXucXac.csproj": {}
+    "C:\\Users\\khang\\Source\\Repos\\GameXucXac\\GameXucXac\\GameXucXac\\GameXucXac.csproj": {}
   },
   "projects": {
-    "/Users/dangphukhang/Projects/GameXucXac/GameXucXac/GameXucXac.csproj": {
+    "C:\\Users\\khang\\Source\\Repos\\GameXucXac\\GameXucXac\\GameXucXac\\GameXucXac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dangphukhang/Projects/GameXucXac/GameXucXac/GameXucXac.csproj",
+        "projectUniqueName": "C:\\Users\\khang\\Source\\Repos\\GameXucXac\\GameXucXac\\GameXucXac\\GameXucXac.csproj",
         "projectName": "GameXucXac",
-        "projectPath": "/Users/dangphukhang/Projects/GameXucXac/GameXucXac/GameXucXac.csproj",
-        "packagesPath": "/Users/dangphukhang/.nuget/packages/",
-        "outputPath": "/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/",
+        "projectPath": "C:\\Users\\khang\\Source\\Repos\\GameXucXac\\GameXucXac\\GameXucXac\\GameXucXac.csproj",
+        "packagesPath": "C:\\Users\\khang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khang\\Source\\Repos\\GameXucXac\\GameXucXac\\GameXucXac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dangphukhang/.config/NuGet/NuGet.Config"
+          "C:\\Users\\khang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,8 +7,6 @@ namespace GameXucXac
     public class References
     {
         public const int MAX_PLAYER = 4;
-        //private ArrayList listHumanPlayer = new ArrayList();
-        //private ArrayList listVirtualPlayer = new ArrayList();
         private List<Player> listPlayer = new List<Player>();
         private List<Dice> listDice = new List<Dice>();
         private int turn = 1;
@@ -57,17 +55,17 @@ namespace GameXucXac
             foreach (Player player in listPlayer)
             {
                 int point = player.Roll(listDice[0]);
-                player.Point += point;
-                if (player.Point > 21)
+                player.currentPoint += point;
+                if (player.currentPoint > 21)
                 {
-                    player.Point = 0;
+                    player.currentPoint = 0;
                 }
-                if (player.Point == 21)
+                if (player.currentPoint == 21)
                 {
                     isGameOver = true;
                     winner = player;
                 }
-                Console.WriteLine("Diem cua {0} la: {1}", player.Name, player.Point);
+                Console.WriteLine("Diem cua {0} la: {1}", player.name, player.currentPoint);
             }
         }
 
@@ -76,12 +74,12 @@ namespace GameXucXac
             Console.WriteLine("==========================");
             if (winner is VirtualPlayer)
             {
-                Console.Write(winner.Name + ": ");
+                Console.Write(winner.name + ": ");
                 ((VirtualPlayer)winner).Reaction();
             }
             if (winner is HumanPlayer)
             {
-                Console.WriteLine("Chuc mung {0}", winner.Name);
+                Console.WriteLine("Chuc mung {0}", winner.name);
             }
             Console.WriteLine("Game Over!!!");
         }

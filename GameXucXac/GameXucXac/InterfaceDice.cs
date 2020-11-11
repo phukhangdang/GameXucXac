@@ -4,6 +4,6 @@ namespace GameXucXac
     public interface InterfaceDice
     {
         public static int a;
-        int rollDice();
+        public int rollDice();
     }
 }
