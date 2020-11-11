@@ -1,0 +1,12 @@
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/bin/Debug/netcoreapp3.1/GameXucXac.deps.json
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/bin/Debug/netcoreapp3.1/GameXucXac.runtimeconfig.json
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/bin/Debug/netcoreapp3.1/GameXucXac.runtimeconfig.dev.json
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/bin/Debug/netcoreapp3.1/GameXucXac.dll
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/bin/Debug/netcoreapp3.1/GameXucXac.pdb
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.csprojAssemblyReference.cache
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.AssemblyInfoInputs.cache
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.AssemblyInfo.cs
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.csproj.CoreCompileInputs.cache
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.dll
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.pdb
+/Users/dangphukhang/Projects/GameXucXac/GameXucXac/obj/Debug/netcoreapp3.1/GameXucXac.genruntimeconfig.cache
